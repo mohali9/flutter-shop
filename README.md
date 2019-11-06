@@ -1,11 +1,5 @@
 # Flutter + PhpMyAdmin
 
-Youtube Tutorial : https://goo.gl/kuvfUe
-
-REST APIFILE: https://github.com/idrcorner/PHP-REST-API
-
-Visit my site : http://idrcorner.com
-
 <img width="220" alt="Screenshot at Nov 06 10-47-02" src="https://user-images.githubusercontent.com/40392114/68266924-233ae700-0083-11ea-8948-f079f334ac58.png">
 <img width="221" alt="Screenshot at Nov 06 10-48-07" src="https://user-images.githubusercontent.com/40392114/68266925-233ae700-0083-11ea-8290-3606d74eaf34.png">
 <img width="220" alt="Screenshot at Nov 06 10-49-04" src="https://user-images.githubusercontent.com/40392114/68266928-233ae700-0083-11ea-9617-3887f78b7862.png">
